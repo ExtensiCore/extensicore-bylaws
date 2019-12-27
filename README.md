@@ -1,2 +1,2 @@
 # extensicore-bylaws
-Bylaws for the Extensicore project
+This repository contains the bylaws for the Infinicore project in its [wiki](https://github.com/ExtensiCore/extensicore-bylaws/wiki/).
